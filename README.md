@@ -1,6 +1,6 @@
 # http-digest-auth-minimal
 
-[![PayPalで開発を支援する](https://img.shields.io/badge/PayPal-Donate-0070BA?logo=paypal&logoColor=white&style=for-the-badge)](https://paypal.me/okako1124)
+[![PayPalで開発を支援する](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/okako1124)
 
 HTTPダイジェスト認証（RFC 7616、`qop=auth`）のやり取りを、1往復ずつ読むための最小サンプルです。Pythonの標準ライブラリだけで書いたサーバーと、途中の値（HA1、HA2、response）を表示するクライアントが入っています。
 
