@@ -1,0 +1,2 @@
+# client_requests.py だけが使います。server.py と client_manual.py は標準ライブラリのみです。
+requests
